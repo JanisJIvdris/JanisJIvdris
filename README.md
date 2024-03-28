@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,bash,git,r,postgres,powershell,vim,vscode" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,angular,mongodb,c,cs,cpp,dotnet,jenkins,nextjs,mysql,ruby,rails" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,angular,mongodb,c,cs,cpp,dotnet,jenkins,mysql,ruby,rails" /><br>
 </div>
 
 <br/>
@@ -46,7 +46,6 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JanisJIvdris/JanisJIvdris/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div>
 
@@ -56,7 +55,6 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=JanisJIvdris&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanisJIvdris&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
