@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **React and Go**
 
-⚡ Fun fact **If you put your phone in the microwave for 30 seconds will charge it instantly.**
+⚡ Fun fact: **If you put your phone in the microwave for 30 seconds will charge it instantly.**
 
  </div>
  
