@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **my portfolio**
  
- 🌱 I’m currently learning **React**
+ 🌱 I’m currently learning **React and Go**
 
 ⚡ Fun fact **If you shake an empty USB stick vigorously enough, you can recharge it with digital energy.**
 
