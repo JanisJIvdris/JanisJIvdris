@@ -25,7 +25,7 @@
   <a href="https://linkedin.com/in/jjivdris" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a>
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,bash,git,r,postgres,powershell,vim,vscode" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,angular,sql,mongodb,c,cs,cpp,dotnet,jenkins,nextjs,mysql,ruby,rails,linux,matlab" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,angular,mongodb,c,cs,cpp,dotnet,jenkins,nextjs,mysql,ruby,rails,linux,matlab" /><br>
 </div>
 
 <br/>
