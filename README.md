@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **my portfolio**
  
- 🌱 I’m currently learning **React and Go**
+ 🌱 I’m currently learning **React and Ruby on Rails**
 
 ⚡ Fun fact: **If you put your phone in the microwave for 30 seconds will charge it instantly.**
 
