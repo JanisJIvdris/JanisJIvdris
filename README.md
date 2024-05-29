@@ -10,7 +10,7 @@
  
 <div align="center">
  
- 🔭 I’m currently working on **My movie list app**
+ 🔭 I’m currently working on **My movie app**
  
  🌱 I’m currently learning **React**
 
