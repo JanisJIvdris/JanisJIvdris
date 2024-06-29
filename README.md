@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **My movie app**
  
- 🌱 I’m currently learning **React**
+ 🌱 I’m currently learning **Rust**
 
 ⚡ Fun fact: **If you put your phone in the microwave for 30 seconds will charge it instantly.**
 
