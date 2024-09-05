@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **My portfolio**
  
- 🌱 I’m currently learning **Rust**
+ 🌱 I’m currently learning **Next.js**
 
 ⚡ Fun fact: **If you put your phone in the microwave for 30 seconds will charge it instantly.**
 
