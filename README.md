@@ -10,7 +10,7 @@
  
 <div align="center">
  
- 🔭 I’m currently working on **My portfolio**
+ 🔭 I’m currently working on **SAS platform**
  
  🌱 I’m currently learning **Next.js**
 
