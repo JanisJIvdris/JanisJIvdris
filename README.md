@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **SAS platform**
  
- 🌱 I’m currently learning **Next.js**
+ 🌱 I’m currently learning **GO**
 
 ⚡ Fun fact: **If you put your phone in the microwave for 30 seconds will charge it instantly.**
 
